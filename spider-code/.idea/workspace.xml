@@ -11,14 +11,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/spider_code$COOKIES.coverage" NAME="COOKIES Coverage Results" MODIFIED="1547217527101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn-spider" />
     <SUITE FILE_PATH="coverage/spider_code$test.coverage" NAME="test Coverage Results" MODIFIED="1545733820974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider_code$onepiece.coverage" NAME="onepiece Coverage Results" MODIFIED="1545808821951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onepiece-baidutieba-title" />
+    <SUITE FILE_PATH="coverage/spider_code$biaodan.coverage" NAME="biaodan Coverage Results" MODIFIED="1547220903685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn-spider" />
     <SUITE FILE_PATH="coverage/spider_code$ajax.coverage" NAME="ajax Coverage Results" MODIFIED="1546787506840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn-spider" />
     <SUITE FILE_PATH="coverage/spider_code$redis.coverage" NAME="redis Coverage Results" MODIFIED="1546241641059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn-spider" />
     <SUITE FILE_PATH="coverage/spider_code$SAO.coverage" NAME="SAO Coverage Results" MODIFIED="1545757269107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAO-novel" />
+    <SUITE FILE_PATH="coverage/spider_code$simulate_login.coverage" NAME="simulate-login Coverage Results" MODIFIED="1546860998892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn-spider" />
     <SUITE FILE_PATH="coverage/spider_code$post.coverage" NAME="post Coverage Results" MODIFIED="1545753481865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn-spider" />
     <SUITE FILE_PATH="coverage/spider_code$WuMingZhiBei.coverage" NAME="WuMingZhiBei Coverage Results" MODIFIED="1546790949747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/le-movie-comment" />
     <SUITE FILE_PATH="coverage/spider_code$anime__1_.coverage" NAME="anime (1) Coverage Results" MODIFIED="1545820123858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dilidili-rexue-anime" />
+    <SUITE FILE_PATH="coverage/spider_code$pictures_spider.coverage" NAME="pictures-spider Coverage Results" MODIFIED="1547283196793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hearthstone" />
     <SUITE FILE_PATH="coverage/spider_code$mongodb.coverage" NAME="mongodb Coverage Results" MODIFIED="1545893520493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn-spider" />
     <SUITE FILE_PATH="coverage/spider_code$xPath.coverage" NAME="xPath Coverage Results" MODIFIED="1545808698239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn-spider" />
     <SUITE FILE_PATH="coverage/spider_code$spider.coverage" NAME="spider Coverage Results" MODIFIED="1546684225426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianyiriXdexianshen-noval" />
@@ -29,41 +33,45 @@
     <session id="-43949391">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.35" value="4" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.35" value="5" />
           <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="3" />
-          <entry key="py" value="16" />
-          <entry key="txt" value="19" />
+          <entry key="jpg" value="1" />
+          <entry key="py" value="24" />
+          <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="16" />
+          <entry key="Image" value="1" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="5113" />
-          <entry key="txt" value="251" />
+          <entry key="py" value="6232" />
+          <entry key="txt" value="284" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="254" />
-          <entry key="Python" value="5113" />
+          <entry key="PLAIN_TEXT" value="287" />
+          <entry key="Python" value="6232" />
         </counts>
       </usages-collector>
     </session>
@@ -71,52 +79,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-spider/xPath.py">
+        <entry file="file://$PROJECT_DIR$/learn-spider/biaodan.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="16" />
+              <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dilidili-rexue-anime/readme.txt">
+        <entry file="file://$PROJECT_DIR$/learn-spider/YanZhengMa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-spider/redis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#24#39#0" expanded="true" />
+                <element signature="e#25#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xianyiriXdexianshen-noval/spider.py">
+        <entry file="file://$PROJECT_DIR$/Hearthstone/pictures-spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="e#24#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-spider/ajax.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="21" column="61" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="61" />
+            <state relative-caret-position="225">
+              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
@@ -125,15 +112,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/le-movie-comment/WuMingZhiBei.py">
+        <entry file="file://$PROJECT_DIR$/Hearthstone/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="45" column="76" lean-forward="true" selection-start-line="1" selection-end-line="45" selection-end-column="76" />
+            <state relative-caret-position="25">
+              <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xianyiriXdexianshen-noval/spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="25" column="45" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="45" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
-                <marker date="1546790949567" expanded="true" signature="80:298" ph="..." />
-                <marker date="1546790949567" expanded="true" signature="959:1066" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SAO-novel/SAO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -211,8 +214,14 @@
         <option value="$PROJECT_DIR$/xianyiriXdexianshen-noval/spider.py" />
         <option value="$PROJECT_DIR$/xianyiriXdexianshen-noval/readme.txt" />
         <option value="$PROJECT_DIR$/learn-spider/ajax.py" />
-        <option value="$PROJECT_DIR$/le-movie-comment/WuMingZhiBei.py" />
         <option value="$PROJECT_DIR$/le-movie-comment/readme.txt" />
+        <option value="$PROJECT_DIR$/le-movie-comment/WuMingZhiBei.py" />
+        <option value="$PROJECT_DIR$/learn-spider/simulate-login.py" />
+        <option value="$PROJECT_DIR$/learn-spider/COOKIES.py" />
+        <option value="$PROJECT_DIR$/learn-spider/biaodan.py" />
+        <option value="$PROJECT_DIR$/learn-spider/YanZhengMa.py" />
+        <option value="$PROJECT_DIR$/Hearthstone/pictures-spider.py" />
+        <option value="$PROJECT_DIR$/Hearthstone/readme.txt" />
       </list>
     </option>
   </component>
@@ -222,11 +231,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="420" />
-    <option name="y" value="80" />
-    <option name="width" value="1335" />
-    <option name="height" value="825" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -246,12 +254,12 @@
             <path>
               <item name="spider-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider-code" type="462c0819:PsiDirectoryNode" />
-              <item name="le-movie-comment" type="462c0819:PsiDirectoryNode" />
+              <item name="Hearthstone" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spider-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-spider" type="462c0819:PsiDirectoryNode" />
+              <item name="SAO-novel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spider-code" type="b2602c69:ProjectViewProjectNode" />
@@ -288,7 +296,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.WuMingZhiBei">
+  <component name="RunManager" selected="Python.pictures-spider">
+    <configuration name="COOKIES" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-spider/COOKIES.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="WuMingZhiBei" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -311,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ajax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="biaodan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,7 +354,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-spider/ajax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-spider/biaodan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +363,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mongodb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pictures-spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hearthstone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hearthstone/pictures-spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simulate-login" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider-code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,51 +398,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-spider/mongodb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="redis" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="spider-code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-spider/redis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="spider-code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xianyiriXdexianshen-noval" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xianyiriXdexianshen-noval/spider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-spider/simulate-login.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,19 +408,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.mongodb" />
-      <item itemvalue="Python.redis" />
-      <item itemvalue="Python.spider" />
-      <item itemvalue="Python.ajax" />
       <item itemvalue="Python.WuMingZhiBei" />
+      <item itemvalue="Python.simulate-login" />
+      <item itemvalue="Python.COOKIES" />
+      <item itemvalue="Python.biaodan" />
+      <item itemvalue="Python.pictures-spider" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pictures-spider" />
+        <item itemvalue="Python.biaodan" />
+        <item itemvalue="Python.COOKIES" />
+        <item itemvalue="Python.simulate-login" />
         <item itemvalue="Python.WuMingZhiBei" />
-        <item itemvalue="Python.ajax" />
-        <item itemvalue="Python.spider" />
-        <item itemvalue="Python.redis" />
-        <item itemvalue="Python.mongodb" />
       </list>
     </recent_temporary>
   </component>
@@ -431,14 +439,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19235925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13873994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.38709676" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2228739" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.107038125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -548,23 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SAO-novel/SAO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="59" column="39" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-spider/xPath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -575,13 +565,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learn-spider/xPath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn-spider/redis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-spider/ajax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/le-movie-comment/WuMingZhiBei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-spider/simulate-login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-spider/COOKIES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-spider/biaodan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/le-movie-comment/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -610,42 +652,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learn-spider/YanZhengMa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#25#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xianyiriXdexianshen-noval/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="175">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="45" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn-spider/ajax.py">
+    <entry file="file://$PROJECT_DIR$/SAO-novel/SAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="21" column="61" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="61" />
+        <state relative-caret-position="312">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hearthstone/炉石传说图片/石英元素.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hearthstone/pictures-spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/le-movie-comment/readme.txt">
+    <entry file="file://$PROJECT_DIR$/Hearthstone/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/le-movie-comment/WuMingZhiBei.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="45" column="76" lean-forward="true" selection-start-line="1" selection-end-line="45" selection-end-column="76" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-            <marker date="1546790949567" expanded="true" signature="80:298" ph="..." />
-            <marker date="1546790949567" expanded="true" signature="959:1066" ph="..." />
-          </folding>
+        <state relative-caret-position="25">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
         </state>
       </provider>
     </entry>
