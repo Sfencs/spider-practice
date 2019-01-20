@@ -1,0 +1,2 @@
+使用了scrapy框架，爬取我的个人博客hcyue.cn
+redis缓存请求，mongodb存储爬取的文章信息
